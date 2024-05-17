@@ -6,7 +6,7 @@ import CreatePost from "./components/Post/Create"
 import EditPost from "./components/Post/Edit"
 import PostDetail from "./components/Post/PostDetail"
 import BlogList from "./views/Home"
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route, Navigate } from "react-router-dom"
 
 function App() {
   return (
