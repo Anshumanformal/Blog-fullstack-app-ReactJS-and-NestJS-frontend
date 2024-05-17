@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/css/main.f855e6bc.css",
-    "main.js": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/js/main.aae47519.js",
+    "main.js": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/js/main.c7d6d754.js",
     "static/js/453.63a76a7f.chunk.js": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/js/453.63a76a7f.chunk.js",
     "static/media/BlogAR_image.jpg": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/media/BlogAR_image.b2f0cbbc0fa81db02a76.jpg",
     "index.html": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/index.html",
     "main.f855e6bc.css.map": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/css/main.f855e6bc.css.map",
-    "main.aae47519.js.map": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/js/main.aae47519.js.map",
+    "main.c7d6d754.js.map": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/js/main.c7d6d754.js.map",
     "453.63a76a7f.chunk.js.map": "/Blog-fullstack-app-ReactJS-and-NestJS-frontend/static/js/453.63a76a7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.aae47519.js"
+    "static/js/main.c7d6d754.js"
   ]
 }
